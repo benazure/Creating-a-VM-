@@ -1,4 +1,4 @@
-# Creating-a-VM-
+# Creating-a-VM-Using-PowerShell
 
 New-AzVm -ResourceGroupName "myResourceGroup" `
      -Name "myVM" `
